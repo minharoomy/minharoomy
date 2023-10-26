@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Minha Roomy (@minharoomy on GitHub).
+- 👋 Hi, I’m Minha Roomy.
 - 👀 I’m interested in Software System Technology, web development, and creating dynamic user experiences.
 - 🌱 I’m currently honing my skills in Python, JavaScript, and React at the University of Kelaniya.
 - 💞️ I’m looking to collaborate on innovative software projects and open-source initiatives.
